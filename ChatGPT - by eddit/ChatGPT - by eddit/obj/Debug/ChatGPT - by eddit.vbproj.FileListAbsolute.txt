@@ -1,0 +1,16 @@
+C:\Users\zabor\source\repos\ChatGPT - by eddit\ChatGPT - by eddit\bin\Debug\ChatGPT - by eddit.exe.config
+C:\Users\zabor\source\repos\ChatGPT - by eddit\ChatGPT - by eddit\bin\Debug\ChatGPT - by eddit.exe
+C:\Users\zabor\source\repos\ChatGPT - by eddit\ChatGPT - by eddit\bin\Debug\ChatGPT - by eddit.pdb
+C:\Users\zabor\source\repos\ChatGPT - by eddit\ChatGPT - by eddit\bin\Debug\ChatGPT - by eddit.xml
+C:\Users\zabor\source\repos\ChatGPT - by eddit\ChatGPT - by eddit\obj\Debug\ChatGPT - by eddit.vbproj.AssemblyReference.cache
+C:\Users\zabor\source\repos\ChatGPT - by eddit\ChatGPT - by eddit\obj\Debug\ChatGPT - by eddit.vbproj.SuggestedBindingRedirects.cache
+C:\Users\zabor\source\repos\ChatGPT - by eddit\ChatGPT - by eddit\obj\Debug\ChatGPT___by_eddit.Resources.resources
+C:\Users\zabor\source\repos\ChatGPT - by eddit\ChatGPT - by eddit\obj\Debug\ChatGPT - by eddit.vbproj.GenerateResource.cache
+C:\Users\zabor\source\repos\ChatGPT - by eddit\ChatGPT - by eddit\obj\Debug\ChatGPT - by eddit.vbproj.CoreCompileInputs.cache
+C:\Users\zabor\source\repos\ChatGPT - by eddit\ChatGPT - by eddit\obj\Debug\ChatGPT - by eddit.vbproj.CopyComplete
+C:\Users\zabor\source\repos\ChatGPT - by eddit\ChatGPT - by eddit\obj\Debug\ChatGPT - by eddit.exe
+C:\Users\zabor\source\repos\ChatGPT - by eddit\ChatGPT - by eddit\obj\Debug\ChatGPT - by eddit.xml
+C:\Users\zabor\source\repos\ChatGPT - by eddit\ChatGPT - by eddit\obj\Debug\ChatGPT - by eddit.pdb
+C:\Users\zabor\source\repos\ChatGPT - by eddit\ChatGPT - by eddit\obj\Debug\ChatGPT___by_eddit.MainForm.resources
+C:\Users\zabor\source\repos\ChatGPT - by eddit\ChatGPT - by eddit\bin\Debug\Guna.UI.dll
+C:\Users\zabor\source\repos\ChatGPT - by eddit\ChatGPT - by eddit\obj\Debug\ChatGPT___by_eddit.User.resources
