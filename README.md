@@ -23,9 +23,9 @@
 </div>
  <div align="center">
     <p align="center">GPT Models</p>
-  <img src="https://imgur.com/a/H7rDW53" alt="Obrazek" width="750" height="400">
+  <img src="https://i.imgur.com/X9UmvXA.png" alt="Obrazek" width="750" height="400">
 </div>
  <div align="center">
     <p align="center">Answer on discord when webhook is connected</p>
-  <img src="https://imgur.com/a/H7rDW53" alt="Obrazek" width="750" height="400">
+  <img src="https://i.imgur.com/ESqH9U9.png" alt="Obrazek" width="750" height="400">
 </div>
